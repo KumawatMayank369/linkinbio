@@ -1,0 +1,10 @@
+{
+  "name": "link-in-bio-netlify",
+  "version": "1.0.0",
+  "description": "Link-in-bio app on Netlify",
+  "main": "functions/server.js",
+  "dependencies": {
+    "serverless-http": "^3.2.0",
+    "express": "^4.19.2"
+  }
+}
